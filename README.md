@@ -5,3 +5,9 @@
 - TypeScript
 - Fastify
 - Prisma
+
+## Web - React - Next
+- React JS
+- TypeScript
+- Next
+- SSR (Server Side Rendering)
