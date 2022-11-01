@@ -11,3 +11,8 @@
 - TypeScript
 - Next
 - SSR (Server Side Rendering)
+
+## Mobile - React Native
+- Expo
+- Expo Go (Android and Mobile)
+- Native Base
