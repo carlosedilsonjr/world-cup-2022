@@ -5,6 +5,8 @@
 - TypeScript
 - Fastify
 - Prisma
+- Zod (schema validation)
+- Short Unique id (generate pool code)
 
 ## Web - React - Next
 - React JS
