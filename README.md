@@ -13,6 +13,11 @@
 - TypeScript
 - Next
 - SSR (Server Side Rendering)
+- Tailwind (style css)
+- Axios (http calls)
+
+> Proxima Implementação WEB: usar a função get Static props do Nexta para poder melhorar a performance da aplicação e parar de fazer os 3 requisições todo a hora. Isso vai salvar um resultado e vai sempre mostrar ele e de tempo em tempo ele atualiza esses dados.
+
 
 ## Mobile - React Native
 - Expo
