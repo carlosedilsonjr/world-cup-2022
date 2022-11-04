@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "nlwworldcup2022",
+    "slug": "nlwworldcup2022",
+    "scheme": "worldcup2022",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -23,3 +23,6 @@
 - Expo
 - Expo Go (Android and Mobile)
 - Native Base
+- React Native SVG Transformer
+- Expo Auth Session
+- Expo Web Browser
