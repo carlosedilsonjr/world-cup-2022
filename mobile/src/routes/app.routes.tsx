@@ -17,12 +17,12 @@ export function AppRoutes() {
       headerShown: false,
       tabBarLabelPosition: 'beside-icon',
       tabBarActiveTintColor: colors.yellow[500],
-      tabBarInactiveTintColor: colors.green[300],
+      tabBarInactiveTintColor: colors.gray[300],
       tabBarStyle: {
         position: 'absolute',
         height: sizes[22],
         borderTopWidth: 0,
-        backgroundColor: colors.green[800]
+        backgroundColor: colors.gray[800]
       },
       tabBarItemStyle: {
         position: 'relative',
