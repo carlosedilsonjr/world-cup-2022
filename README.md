@@ -27,3 +27,4 @@
 - React Native SVG Transformer
 - Expo Auth Session
 - Expo Web Browser
+- React Navigation
