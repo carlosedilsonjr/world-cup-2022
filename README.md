@@ -28,3 +28,5 @@
 - Expo Auth Session
 - Expo Web Browser
 - React Navigation
+
+> Proxima Implementação MOBILE: user o async storage para persistir a informação se o user está logado ou não.
