@@ -7,6 +7,7 @@
 - Prisma
 - Zod (schema validation)
 - Short Unique id (generate pool code)
+- Fastify JWT (Authentication)
 
 ## Web - React - Next
 - React JS
