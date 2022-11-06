@@ -40,7 +40,7 @@ export function Pools() {
 
   return (
     <VStack flex={1} bgColor={'gray.900'}>
-      <Header title="Meus Bolões" />
+      <Header title="Meus Bolões" onShare={() => { }} />
 
       <VStack mt={6} mx={5} borderBottomWidth={1} borderBottomColor='gray.600' pb={4} mb={4}>
         <Button
@@ -54,7 +54,12 @@ export function Pools() {
         <FlatList
           data={pools}
           keyExtractor={item => item.id}
-          renderItem={({ item }) => <PoolCard data={item} />}
+          renderItem={({ item }) => (
+            <PoolCard
+              data={item}
+              onPress={() => navigate('details', { id: item.id })}
+            />
+          )}
           px={5}
           showsVerticalScrollIndicator={false}
           _contentContainerStyle={{ pb: 10 }}

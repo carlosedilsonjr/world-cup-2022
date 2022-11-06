@@ -28,5 +28,9 @@
 - Expo Auth Session
 - Expo Web Browser
 - React Navigation
+- Country List (get name of the country by ISO Code)
+- Country Flag (show the mini flag of the country)
+- Day Js (config of date)
+- Dot Env
 
 > Proxima Implementação MOBILE: user o async storage para persistir a informação se o user está logado ou não.
